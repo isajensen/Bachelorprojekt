@@ -1,8 +1,7 @@
 # ============================================================================
 # DSB BORNHOLM - DEMAND FORECASTING SHOWCASE
 # ============================================================================
-# Forkortet version til demonstration af metode og resultater
-# Fuldt projekt: github.com/[dit-brugernavn]/dsb-bornholm-forecasting
+# Forkortet kode til demonstration af metode og resultater
 # ============================================================================
 
 # Pakker
